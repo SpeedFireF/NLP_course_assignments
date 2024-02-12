@@ -1,2 +1,2 @@
-# NLP_course_assignments
-Repository for [S24] Natural Language Processing course
+# Natural Language Processing course
+Repository for Natural Language Processing course from Innopolis university
